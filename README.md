@@ -1,6 +1,6 @@
 # Swift
-Learning Swift
-## CaesarCipher.swift
+This repository  contains the tiny projects and notes on the course "Learn Swift" by Codeacademy.
+### CaesarCipher.swift
 The Caesar’s Cipher is one of the simplest and most widely known encryption techniques. It is named after Julius Caesar because it was used by the Roman Empire to encode military secrets.
 
 To use the cipher, draw the alphabet in a circle like so:
